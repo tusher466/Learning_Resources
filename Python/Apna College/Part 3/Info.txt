@@ -1,0 +1,5 @@
+In Part 3
+    -> Arithmetic Operators
+    -> Comparison Operators
+    -> Logical Operators
+    -> Conditionals (if-else)
