@@ -1,0 +1,5 @@
+In Part 2
+    -> Type Conversion/Casting
+    -> Sum Program
+    -> String Methods
+    -> Keywords
