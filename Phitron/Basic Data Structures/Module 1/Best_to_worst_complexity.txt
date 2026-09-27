@@ -1,0 +1,23 @@
+Time Complexity:
+n = 1000
+
+Constant:       O(1)        -> 1
+Linear:         O(n)        -> 1000
+Logarithmic:    O(log n)    -> 10
+Square root:    O(sqrt n)   -> 32
+Quadratic:      O(n^2)      -> 1000000
+Lineralithmic:  O(n log n)  -> 1000 * 10 = 10000
+
+Best to Worst:
+
+1. Constant         -> O(1)
+2. Logarithmic      -> O(log n)
+3. Square Root      -> O(sqrt n)
+4. Linear           -> O(n)
+5. Linearithmic     -> O(n log n)
+6. Quadratic        -> O(n^2)
+
+Space Complexity:
+
+Space Complexity depends on the array size.
+
